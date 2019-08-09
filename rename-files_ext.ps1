@@ -1,5 +1,6 @@
 ﻿# 08 2019 GENZO
 #script pour renommer les extensions des  fichiers dans un repertoire et les deposer dans le dossier
+# adapter les valeur des variables à votre environnement et vos besoins
 
 #déclaration des variables
 $pathsource = "c:\temp\rename_source"
